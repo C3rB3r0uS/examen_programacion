@@ -35,20 +35,20 @@ public class Test {
         h.put("nina", Sandra);
         h.put("lobo", MariCruz);
  
-//        String respuesta = JOptionPane.showInputDialog("Introduzca el tipo de jugador: ");
-//        respuesta = respuesta.toLowerCase();
-//        
-//        System.out.println("Datos del jugador: " + h.get(respuesta));
+        String respuesta = JOptionPane.showInputDialog("Introduzca el tipo de jugador: ");
+        respuesta = respuesta.toLowerCase();
         
-        // Ejercicio 1 - B
+        System.out.println("Datos del jugador: " + h.get(respuesta));
         
-//        Set <Jugador> s = new HashSet <>();
-//
-//        s.add(Ana);
-//        s.add(Ana);
-//        s.add(Sandra);
-//        
-//        System.out.println(s);
+//         Ejercicio 1 - B
+        
+        Set <Jugador> s = new HashSet <>();
+
+        s.add(Ana);
+        s.add(Ana);
+        s.add(Sandra);
+        
+        System.out.println(s);
   
     }
     

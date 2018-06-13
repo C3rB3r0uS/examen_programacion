@@ -33,7 +33,7 @@ public class Controlador implements ActionListener{
         
         if(ae.getSource() == this.ventana.BotonBorrar){
             
-            this.ventana.CampoTexto.setText("");
+            this.ventana.Nombre.setText("");
             
         }
         

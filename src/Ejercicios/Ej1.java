@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ejercicio1;
+package Ejercicios;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 
 
 
-public class Test {
+public class Ej1 {
     
     public static void main(String[] args) {
         
